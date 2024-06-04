@@ -1,0 +1,12 @@
+name: final_app
+title: final_app
+username: abir-golam
+account: abir-golam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12047675
+bundleId: 8697317
+url: https://abir-golam.shinyapps.io/final_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
